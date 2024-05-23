@@ -1,6 +1,6 @@
-*Nama|NIM|Kelas|Mata Kuliah*|
+Nama|NIM|Kelas|Mata Kuliah|
 |----|---|-----|------|
-|*Romi Rahman|312310581|TI.23.A6|Basis Data*|
+|**Romi Rahman**|**312310581**|**TI.23.A6**|**Basis Data**|
 
 # SQL Query Filtering
 
